@@ -1,4 +1,4 @@
-# OnlineStore-PHP
+# Online Tech Store - PHP
 
 Made mostly using PHP and SQL queries, this is my first attempt at an online tech store. 
 
